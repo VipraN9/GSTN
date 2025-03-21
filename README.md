@@ -26,7 +26,7 @@ Visualization:
 Various visual aids, including confusion matrices and feature importance plots, were created to
 support findings and enhance understanding.
 
-$ Findings
+# Findings
 Model Performance:
 
 The Neural Network achieved an accuracy of approximately 95% on the test set.
